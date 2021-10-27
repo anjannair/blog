@@ -16,7 +16,7 @@ If you are booting from the EOS image for the first time let it run a file check
 
 After the initial setup is done and an account is setup you are ready to go!!
 
-NOW THE NEXT TIME YOU POWER ON YOUR DEVICE IT SHOULD AUTOMATICALLY START EOS!
+NOW THE NEXT TIME YOU POWER ON YOUR DEVICE, IT SHOULD AUTOMATICALLY START EOS!
 
 (Side note - You can eject the USB and remove it now)
 
