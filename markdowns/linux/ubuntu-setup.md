@@ -31,3 +31,6 @@ Enter your Google account if sync is wanted with Ubuntu Calendar
 1. In the minimalist version the codecs for audio was missing so you have to install ffmpeg using sudo from the CLI.
 2. To activate the camera from VMware, when on full screen mode hover to the top and find the camera icon near the notes and right click on it. This will present a option to Enable the camera. Wait for some time and if it gives an error try again. On your second or third try it should work after giving a prompt. 
 3. Use the update command to find for updates and upgrade to upgrade the packages.
+
+
+# Installing on your Windows Laptop (dual-boot)
