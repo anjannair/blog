@@ -25,3 +25,15 @@ NOW THE NEXT TIME YOU POWER ON YOUR DEVICE, IT SHOULD AUTOMATICALLY START EOS!
  - The weird close and maximize button can be tweaked too using this package - https://github.com/pantheon-tweaks/pantheon-tweaks
  - In settings I noticed the **Location** permission is on by default, one can fix that by switching it off.
  - Desktop folders has an app called DesktopFolder which can usually be installed using the AppCentre but it has not been optimized for EOS6 hence a pull request fixing the error can be found here - https://github.com/spheras/desktopfolder/pull/328 (as of October 2021).
+
+## An Update
+So I removed ElementaryOS because it was giving me the following issues -
+1) Audio issues when connected without an external mic
+2) Battery drain even suspended aka put to sleep
+3) A little heating issue
+4) Slower boot (startup) when compared to Windows
+5) No audio compartmentalization, meaning audio from one app is not isolated, instead, that audio is even heard in the other app. Tried using Pipewire as recommended by someone, but it still did not work.
+
+These issues may seem trivial but it was like a needle that one cannot find in the middle of a very soft and comfortable bed.
+
+Hence ElementaryOS isn't an distro I would recommend for someone who has a laptop.
