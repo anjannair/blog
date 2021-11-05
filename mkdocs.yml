@@ -21,7 +21,6 @@ extra:
       link: https://github.com/anjannair
       name: Anjan on Github
   generator: false
-  disqus: documentation-5
 markdown_extensions:
   - pymdownx.highlight:
       linenums: true
