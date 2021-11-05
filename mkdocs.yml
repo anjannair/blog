@@ -1,0 +1,32 @@
+site_name: Documentation
+theme:
+  language: en
+  name: material
+  features:
+    - navigation.top
+  palette:
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/anjannair
+      name: Anjan on Github
+  generator: false
+  disqus: documentation-5
+markdown_extensions:
+  - pymdownx.highlight:
+      linenums: true
+      auto_title: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets
+

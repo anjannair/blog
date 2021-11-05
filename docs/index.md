@@ -1,0 +1,2 @@
+# About This Site
+This site was built with the objective of providing information and at the same time as a reference for me to look back incase I need this again. A lot of time is usually spent in just searching for solutions. To avoid waste of time in the future I have written the documentation on my own with information I have gathered myself or referred through different websites and videos.
