@@ -30,11 +30,11 @@ NOW THE NEXT TIME YOU POWER ON YOUR DEVICE, IT SHOULD AUTOMATICALLY START EOS!
 ## An Update
 So I removed ElementaryOS because it was giving me the following issues -
 
-1) Audio issues when connected without an external mic
-2) Battery drain even suspended aka put to sleep
-3) A little heating issue
-4) Slower boot (startup) when compared to Windows
-5) No audio compartmentalization, meaning audio from one app is not isolated, instead, that audio is even heard in the other app. Tried using Pipewire as recommended by someone, but it still did not work.
+1. Audio issues when connected without an external mic
+2. Battery drain even suspended aka put to sleep
+3. A little heating issue
+4. Slower boot (startup) when compared to Windows
+5. No audio compartmentalization, meaning audio from one app is not isolated, instead, that audio is even heard in the other app.
 
 These issues may seem trivial but it was like a needle that one cannot find in the middle of a very soft and comfortable bed.
 
