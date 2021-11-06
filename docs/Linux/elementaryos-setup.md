@@ -29,6 +29,7 @@ NOW THE NEXT TIME YOU POWER ON YOUR DEVICE, IT SHOULD AUTOMATICALLY START EOS!
 
 ## An Update
 So I removed ElementaryOS because it was giving me the following issues -
+
 1) Audio issues when connected without an external mic
 2) Battery drain even suspended aka put to sleep
 3) A little heating issue

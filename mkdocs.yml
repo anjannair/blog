@@ -21,6 +21,7 @@ extra:
       link: https://github.com/anjannair
       name: Anjan on Github
   generator: false
+copyright: Copyright &copy; 2021 - 2030 Anjan Nair
 markdown_extensions:
   - pymdownx.highlight:
       linenums: true

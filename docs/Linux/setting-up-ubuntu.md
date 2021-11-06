@@ -43,7 +43,7 @@ Some pre-requisites for doing this include -
 - [Balena Etcher](https://www.balena.io/etcher/) installed on Windows
 - The latest Ubuntu `.iso` file downloaded and ready
 
-Once you have the above mentioned items ready all you have to do is fire up Balena with the USB plugged in to your device. Balena will automatically detect your USB. On rare circumstances if Balena does not detect your USB, you should check if the USB is being detected by your device first.
+Once you have the above mentioned items ready all you have to do is fire up Etcher with the USB plugged in to your device. Etcher will automatically detect your USB. On rare circumstances if Etcher does not detect your USB, you should check if the USB is being detected by your device first.
 
 A **FLASH** option should appear when everything is ready. Flashing takes some time and once done you are good to go!
 
