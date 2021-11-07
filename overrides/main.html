@@ -1,0 +1,21 @@
+{% extends "base.html" %} {% block disqus %} {% if not page.is_homepage %}
+<script
+  src="https://utteranc.es/client.js"
+  repo="agentmurphy/comment"
+  issue-term="pathname"
+  label="comment"
+  theme="github-light"
+  crossorigin="anonymous"
+  async
+></script>
+<noscript>Please enable JavaScript to view the comments.</noscript>
+{% endif %} {% block announce %}
+<p id="announce" align="center">New comment section is out!✨ Check it out on the articles!</p>
+<script>
+  var announces = [
+    "New comment section is out!✨ Check it out on the articles!",
+    "The Internet Freedom Foundation needs your help donate <a href='https://internetfreedom.in/donate/'>here</a>"
+  ];
+  setInterval(function(){ document.getElementById("announce").innerHTML = announces[Math.floor(Math.random(0,1)*announces.length)] }, 30000);
+</script>
+{% endblock %} {% endblock %}

@@ -1,7 +1,10 @@
 site_name: Documentation
+site_url: https://anjannair.xyz/documentations/
+repo_url: https://github.com/anjannair/documentations
 theme:
   language: en
   name: material
+  custom_dir: overrides
   features:
     - navigation.top
   palette:
