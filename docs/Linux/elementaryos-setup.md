@@ -1,3 +1,7 @@
+<!-- ---
+description: Quick tutorial to dual boot into ElementaryOS from Windows followed by a personal review at the end.
+--- -->
+
 # How to switch from Windows to ElementaryOS
 This tutorial gives you an insight into how I switched from Windows to ElementaryOS.
 

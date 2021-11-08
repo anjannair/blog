@@ -11,6 +11,7 @@
 <noscript>Please enable JavaScript to view the comments.</noscript>
 {% endif %}
 {% endblock %}
+
 {% block announce %}
 <p id="announce" align="center">New comment section is out!✨ Check it out on the articles!</p>
 <script>
@@ -21,3 +22,8 @@
   setInterval(function(){ document.getElementById("announce").innerHTML = announces[Math.floor(Math.random(0,1)*announces.length)] }, 30000);
 </script>
 {% endblock %}
+<!-- 
+{% block extrahead %}
+<meta property="og:description" content="Documentation and information of various technologies and experiences by Anjan"/>
+<meta property="description" content="Documentation and information of various technology and experiences by Anjan"/> 
+{% endblock %} -->
