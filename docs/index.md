@@ -1,7 +1,6 @@
 ---
 description: Documentation site of technology covered by me - Anjan. All the things I had difficulty finding or spent more time searching has also been documented in this which makes it a great resource.
-og:image: https://webartdevelopers.com/blog/wp-content/uploads/2018/09/book-opening-animation.png
-og:description: Documentation site of technology covered by me - Anjan. All the things I had difficulty finding or spent more time searching has also been documented in this which makes it a great resource.
+image: https://webartdevelopers.com/blog/wp-content/uploads/2018/09/book-opening-animation.png
 ---
 
 # About This Site

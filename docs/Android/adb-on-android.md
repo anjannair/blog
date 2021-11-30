@@ -1,3 +1,8 @@
+---
+title: Starting with ADB
+description: Android Debug Bridge also known as ADB is often used for debugging applications on Android. In this article we will glance at methods to de-bloat and modify your Android without rooting your phone or voiding it of it's warranty.
+image: https://cdn.vox-cdn.com/thumbor/4YrhF65YGLd8OjHv-y8D_zJH4bI=/0x0:2040x1560/1400x933/filters:focal(857x617:1183x943):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65088839/Android_logo_stacked__RGB_.5.jpg
+---
 # Android Debug Bridge
 Android Debug Bridge also known as ADB is used by developers to debug their applications on Android. This with a little tack of handling a terminal line is all what is required to improvise your experience on Android. To address the fear of losing data on Android: your data would be safe there is literally nothing to worry while using this if you stick to the instructions.
 
