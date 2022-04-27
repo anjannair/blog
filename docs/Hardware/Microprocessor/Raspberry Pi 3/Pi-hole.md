@@ -1,4 +1,4 @@
-# Pi-hole Using Raspberry Pi 3
+    # Pi-hole Using Raspberry Pi 3
 A pi-hole is basically a black-hole for internet ads. The project is an open source ad blocking software at the DNS level.
 
 ## Installing Pi-hole
@@ -19,12 +19,19 @@ To add lists apart from the one used at setup we go to *Group Management*>*Adlis
 My preferred lists are - 
 
 1) Normal Hosts - https://v.firebog.net/hosts/static/w3kbl.txt
+   
 2) Adguard List - https://v.firebog.net/hosts/AdguardDNS.txt
+   
 3) EasyList - https://v.firebog.net/hosts/Easylist.txt
+   
 4) Privacy - https://v.firebog.net/hosts/Easyprivacy.txt
+   
 5) Windows Spyware - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+   
 6) Anti-Malware List - 	https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+   
 7) Threat Intel by OSINT - https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+   
 8) Adult sites - https://blocklistproject.github.io/Lists/porn.txt
 
 You can add all this together by adding the URLs separated by space. After doing so make sure to update the *Gravity* list by running `pihole -g` command or by heading to *Tools* and *Update Gravity*. This downloads the list and updates it.
