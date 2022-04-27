@@ -12,6 +12,12 @@ SCP short for Secure Copy uses SSH (secure shell) to transfer files between 2 de
 scp example.mp4 pi@192.168.1.1:/home/pi/Movies
 ```
 
+For downloading files from the other computer/server to the local machine
+
+```shell
+scp username@192.168.1.1:path_to_file path_in_the_local_machine
+```
+
 You have to replace `example.mp4` with the file you intend to copy over, replace the `pi@192.168.1.1` with your SSH address and `/home/pi/Movies` with the path you want your movie to be in.
 
 ## Additional Points
