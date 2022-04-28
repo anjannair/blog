@@ -1,4 +1,4 @@
-    # Pi-hole Using Raspberry Pi 3
+# Pi-hole Using Raspberry Pi 3
 A pi-hole is basically a black-hole for internet ads. The project is an open source ad blocking software at the DNS level.
 
 ## Installing Pi-hole
