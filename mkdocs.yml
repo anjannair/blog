@@ -1,6 +1,6 @@
-site_name: Documentation
-site_url: https://anjannair.xyz/documentations/
-repo_url: https://github.com/anjannair/documentations
+site_name: Anjan's Blog
+site_url: https://anjannair.xyz/blog/
+repo_url: https://github.com/anjannair/blog
 theme:
   language: en
   name: material

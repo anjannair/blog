@@ -1,21 +1,47 @@
-{% extends "base.html" %} {% block disqus %} {% if not page.is_homepage %}
-<script src="https://giscus.app/client.js"
-        data-repo="agentmurphy/comment"
-        data-repo-id="R_kgDOGVwUfQ"
-        data-category="General"
-        data-category-id="DIC_kwDOGVwUfc4COz_d"
-        data-mapping="pathname"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
+{% extends "base.html" %}
+
+{% block content %}{% if not page.is_homepage %}
+{{ super() }}
+
+<!-- Giscus -->
+<h2 id="__comments">{{ lang.t("meta.comments") }}</h2>
+<!-- Replace with generated snippet -->
+<script src="https://giscus.app/client.js" data-repo="anjannair/blog" data-repo-id="MDEwOlJlcG9zaXRvcnk0MDQ4MDUyNzM="
+  data-category="General" data-category-id="DIC_kwDOGCDWmc4CP5LB" data-mapping="title" data-reactions-enabled="1"
+  data-emit-metadata="0" data-input-position="bottom" data-theme="preferred_color_scheme" data-lang="en"
+  crossorigin="anonymous" async>
+  </script>
+<!-- Synchronize Giscus theme with palette -->
+<script>
+  var giscus = document.querySelector("script[src*=giscus]")
+
+  /* Set palette on initial load */
+  var palette = __md_get("__palette")
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "dark" : "light"
+    giscus.setAttribute("data-theme", theme)
+  }
+
+  /* Register event handlers after documented loaded */
+  document.addEventListener("DOMContentLoaded", function () {
+    var ref = document.querySelector("[data-md-component=palette]")
+    ref.addEventListener("change", function () {
+      var palette = __md_get("__palette")
+      if (palette && typeof palette.color === "object") {
+        var theme = palette.color.scheme === "slate" ? "dark" : "light"
+
+        /* Instruct Giscus to change theme */
+        var frame = document.querySelector(".giscus-frame")
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme } } },
+          "https://giscus.app"
+        )
+      }
+    })
+  })
 </script>
-<noscript>Please enable JavaScript to view the comments.</noscript>
-{% endif %}
 {% endblock %}
+
 
 {% block announce %}
 <p id="announce" align="center">New comment section is out!✨ Check it out on the articles!</p>
@@ -24,6 +50,6 @@
     "New comment section is out!✨ Check it out on the articles!",
     "The Internet Freedom Foundation needs your help donate <a href='https://internetfreedom.in/donate/'>here</a>"
   ];
-  setInterval(function(){ document.getElementById("announce").innerHTML = announces[Math.floor(Math.random(0,1)*announces.length)] }, 30000);
+  setInterval(function () { document.getElementById("announce").innerHTML = announces[Math.floor(Math.random(0, 1) * announces.length)] }, 30000);
 </script>
 {% endblock %}
