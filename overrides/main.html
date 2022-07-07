@@ -1,8 +1,8 @@
 {% extends "base.html" %}
 
-{% block content %}{% if not page.is_homepage %}
+{% block content %}
 {{ super() }}
-
+{% if not page.is_homepage %}
 <!-- Giscus -->
 <h2 id="__comments">{{ lang.t("meta.comments") }}</h2>
 <!-- Replace with generated snippet -->
