@@ -6,7 +6,7 @@ theme:
   name: material
   custom_dir: overrides
   font:
-    text: Special Elite
+    text: Lekton
   features:
     - navigation.top
   palette:

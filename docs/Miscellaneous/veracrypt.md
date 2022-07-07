@@ -62,5 +62,7 @@ To now use your volume after it has been encrypted, ensure the device you want t
 ## Videos Used As Reference:
 
 1) [How To Use VeraCrypt On Linux](https://www.youtube.com/watch?v=4SBWc_cQm-Y)
+   
 2) [Linux Tips - Encrypt USB Drive on Windows Linux and MacOS (VeraCrypt)](https://www.youtube.com/watch?v=w0hMYpBpjJM)
+   
 3) [Hide & Encrypt Your Secret Files With VeraCrypt](https://www.youtube.com/watch?v=xWDXRH1mWHM)
