@@ -1,3 +1,9 @@
+---
+title: Xilinx Setup on Ubuntu
+description: Verilog programming using Xilinx Vivado for Linux made easy.
+image_url: https://allaboutfpga.com/wp-content/uploads/2020/06/Vivavo-software-link.png
+---
+
 # Xilinx Download And Setup In Ubuntu
 
 Xilinx has been one software used to program the FPGA board in Verilog. Currently (at the time of writing) quite funnily this software fails to install in Windows 11 and has some issues installing in Windows 10. Linux however does not fail us here. This tutorial has been picked up from [this](https://www.youtube.com/watch?v=yzEIQLQZYpk) YouTube tutorial but with a few changes.

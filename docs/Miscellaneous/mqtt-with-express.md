@@ -1,3 +1,9 @@
+---
+title: MQTT with ExpressJs
+description: Setup a MQTT broker and a web server using Express to communicate with it.
+image_url: https://assets.emqx.com/images/f984e17ca21ac4b99653a9b666dc537b.png
+---
+
 # Using MQTT With Express.js
 This documentation covers what I had learnt while setting up MQTT with an Express server built using NodeJS. For this project we had written a script to detect a bot (hardware) and continuously track it using [YOLO](https://pjreddie.com/darknet/yolo/).
 

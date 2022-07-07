@@ -1,3 +1,9 @@
+---
+title: Ducky on Raspberry Pi Pico
+description: Pico Ducky is a small USB ducky for Raspberry Pi. It is a cheap and easy to use USB ducky which can be used to automate tasks on your system.
+image_url: https://hackster.imgix.net/uploads/attachments/1245772/_V7g5cyupUX.blob?auto=compress%2Cformat&w=600&h=450&fit=min 
+---
+
 # Pico Ducky aka Bad USB
 
 A Pico Ducky is a USB Rubber Ducky. As defined on the internet as -

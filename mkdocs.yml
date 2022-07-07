@@ -1,4 +1,5 @@
 site_name: Anjan's Blog
+site_description: Providing information and references about my experiences with technology and programming.
 site_url: https://anjannair.xyz/blog/
 repo_url: https://github.com/anjannair/blog
 theme:
@@ -26,6 +27,7 @@ extra:
       link: https://github.com/anjannair
       name: Anjan on Github
   generator: false
+  image: https://opengraph.githubassets.com/106b87d6dc6bf856c3123960088fc0ed2b54639622b82896c92e325948fab17b/anjannair/blog
 copyright: Copyright &copy; 2021 - 2030 Anjan Nair
 markdown_extensions:
   - pymdownx.highlight:

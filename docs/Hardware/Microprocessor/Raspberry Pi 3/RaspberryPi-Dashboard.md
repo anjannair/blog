@@ -1,3 +1,9 @@
+---
+title: Grafana Dashboard Monitoring System
+description: Using Grafana to monitor your Raspberry Pi 3, setup a simple dashboard that will show you the stats of your Raspberry Pi.
+image_url: https://grafana.com/static/img/grafana_labs.jpg
+---
+
 # Monitoring Raspberry Pi With Dashboard
 
 One of the interesting things one can do with their RaspberryPi is setting up a monitoring dashboard. For this we use **Grafana** (a dashboard service), **InfluxDB** (the database) and **collectd** (a metric collection service).

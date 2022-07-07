@@ -1,3 +1,9 @@
+---
+title: Android Debug Bridge
+description: De-bloat and customize your Android phone using the Android Debug Bridge (ADB)
+image_url: https://www.howtogeek.com/wp-content/uploads/2016/10/android-logo-adb.png?height=200p&trim=2,2,2,2
+---
+
 # Android Debug Bridge
 Android Debug Bridge also known as ADB is used by developers to debug their applications on Android. This with a little tack of handling a terminal line is all what is required to improvise your experience on Android. To address the fear of losing data on Android: your data would be safe there is literally nothing to worry while using this if you stick to the instructions.
 

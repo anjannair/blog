@@ -1,3 +1,9 @@
+---
+title: Private DNS for Android
+description: Block ads and trackers without installing anything extra using your Android's inbuilt setting called Private DNS.
+image_url: https://img.gadgethacks.com/img/18/11/63715724321710/0/heres-why-you-should-be-using-private-dns-your-phone.1280x600.jpg
+---
+
 # Private DNS on Android
 Private DNS is one of the least known settings in Android, well at least to the non-tech savvy users. Private DNS can be found in all Android phones which have an Android version of 9+. Although in a lot of phones which have Android version 9, this feature is missing. Your Android version can be found if you navigate to `Settings` and simply tap on the `About` section. All details of your phone are available there.
 

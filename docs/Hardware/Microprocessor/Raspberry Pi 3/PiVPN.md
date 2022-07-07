@@ -1,3 +1,9 @@
+---
+title: PiVPN - Raspberry Pi VPN
+description: Learn to install and configure a Raspberry Pi VPN with WireGuard.
+image_url: https://hackster.imgix.net/uploads/attachments/972022/1_zllFC1eLiXrwMHQilGi-5A.png?auto=compress%2Cformat&w=600&h=450&fit=min
+---
+
 # PiVPN Setup
 PiVPN is a **self hosted VPN service** one can install on the Raspberry Pi. This service is light and serves both OpenVPN or Wireguard depending on the user's choice. This tutorial will show the steps in installing PiVPN with a **Wireguard** configuration.
 

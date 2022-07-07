@@ -1,3 +1,9 @@
+---
+title: Hello Linux, Goodbye Windows
+description: Substitute your old Windows PC's with a Linux computer. A quick and fast method to get your old PC back to life.
+image_url: https://www.linuxinsider.com/wp-content/uploads/sites/2/2021/05/2018-q4os-1.jpg
+---
+
 # Substituting Windows with Linux on an old PC
 I had an old PC (32-bit and 2GB RAM) which had Windows 7 on it. The PC was slow and used to take a lot of time to load anything that required some computational power.
 

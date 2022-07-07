@@ -1,3 +1,8 @@
+---
+title: Nginx Reverse Proxy
+description: Learn how to setup a reverse proxy with Nginx and serve multiple local websites from a single server.
+---
+
 # Nginx Reverse Proxy
 An Nginx reverse proxy comes in use when you need to serve multiple local servers on different ports (remember the `localhost:8080`?). All you require is a small software called nginx.
 

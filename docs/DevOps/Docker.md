@@ -1,3 +1,9 @@
+---
+title: Docker - Getting Started
+description: Docker is a containerization technology that allows you to run applications in a lightweight container.
+image_url: https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Social_Thumbnail_1200x630_v5.png
+---
+
 # Docker
 
 Docker has been quite useful in developing and scaling applications in containers. It isolates the app from the infrastructure. A container is a running instance of an image.

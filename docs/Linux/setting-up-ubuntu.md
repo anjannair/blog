@@ -1,3 +1,9 @@
+---
+title: Ubuntu Setup and Configuration
+description: A guide to setup and configuring Ubuntu on both VMware as well as dual booting.
+image_url: https://assets.ubuntu.com/v1/df4cb5d8-Social+media+banner.jpg
+---
+
 # Setting Up Ubuntu
 
 This tutorial is made from what I learnt during my experience of setting up Ubuntu on my virtual machine as well as dual booting. If you are interested in knowing how to setup Ubuntu on VMware the tutorial is right under this paragraph. To setup for dual boot you'd find it below the VMware setup instructions.
@@ -42,6 +48,8 @@ Some pre-requisites for doing this include -
 - A good USB flash drive (4 GB minimum to install)
 - [Balena Etcher](https://www.balena.io/etcher/) installed on Windows
 - The latest Ubuntu `.iso` file downloaded and ready
+
+**Although the above method mentions Balena Etcher, I feel that should be substituted with [Ventoy](https://www.ventoy.net/en/index.html).**
 
 Once you have the above mentioned items ready all you have to do is fire up Etcher with the USB plugged in to your device. Etcher will automatically detect your USB. On rare circumstances if Etcher does not detect your USB, you should check if the USB is being detected by your device first.
 

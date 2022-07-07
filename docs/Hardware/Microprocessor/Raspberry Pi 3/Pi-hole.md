@@ -1,3 +1,9 @@
+---
+title: Pi-hole with Raspberry Pi 3
+description: Setup a Raspberry Pi 3 to be a Pi-hole server for your network and block ads and trackers.
+image_url: https://howchoo.com/media/nt/uw/mt/the-pi-hole-logo.png?width=1440&auto=webp&quality=70
+---
+
 # Pi-hole Using Raspberry Pi 3
 A pi-hole is basically a black-hole for internet ads. The project is an open source ad blocking software at the DNS level.
 

@@ -1,3 +1,9 @@
+---
+title: VeraCrypt - Encrypt Everything
+description: A quick and easy tutorial to use VeraCrypt to encrypt your USB's and drives.
+image_url: https://www.lifewire.com/thmb/En659JibPvXk8fO-lzXqrvIrLLE=/1920x1080/filters:fill(auto,1)/veracrypt-feat-7c62dc78c39c46f2af53569ecfa2791e.jpg
+---
+
 # VeraCrypt (Cross-Platform)
 VeraCrypt is a free and open source encryption software. The software can create a virtual encrypted disk that works just like a regular disk but within a file. It can also encrypt a partition or the entire storage device with pre-boot authentication.
 

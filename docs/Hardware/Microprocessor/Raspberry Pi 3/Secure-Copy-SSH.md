@@ -1,3 +1,9 @@
+---
+title: Secure Copy over SSH
+description: Send files over SSH using SCP by using basic bash commands.
+image_url: https://www.abort-retry-fail.com/wp-content/uploads/2018/09/Linux_scp_command_640x400.jpg
+---
+
 # Transferring Files Between A Device And Raspberry Pi
 
 To transfer files between the Raspberry Pi and the host device or vice versa we use a simple command called `scp`. Now I like to use a headless Raspbian OS without a GUI on the Raspberry Pi as it saves resources which would be otherwise spent unnecessarily.

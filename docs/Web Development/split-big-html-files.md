@@ -1,3 +1,9 @@
+---
+title: Split Large HTML Files
+description: Learn how to split large HTML files into smaller files statically, without any extra installations.
+image_url: https://www.udacity.com/blog/wp-content/uploads/2020/06/HTML_Blog-scaled.jpeg
+---
+
 # Splitting Big HTML Files
 React and many other frameworks have the ability to split big chunks of code into different files to make the work of the programmer easier. What if I tell you the same can be done for HTML static sites too?
 

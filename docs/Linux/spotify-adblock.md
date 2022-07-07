@@ -1,3 +1,9 @@
+---
+title: Spotify AdBlock On Linux
+description: BlockTheSpot but for Linux. Now block ads and get premium features (minus downloads) on Spotify for Linux.
+image_url: https://www.scdn.co/i/_global/open-graph-default.png
+---
+
 # Spotify Adblock for Linux
 Spotify's ad blocking version is available all the way from Android to Windows but for Linux a special [repository](https://github.com/abba23/spotify-adblock) exists just for this purpose.
 

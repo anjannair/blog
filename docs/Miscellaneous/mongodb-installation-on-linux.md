@@ -1,3 +1,9 @@
+---
+title: MongoDB Installation on Linux
+description: A brief introduction to MongoDB on Linux along with its installation.
+image_url: http://s3.amazonaws.com/info-mongodb-com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png
+---
+
 # Installing MongoDB Community on Ubuntu
 A small guide to install MongoDB Community on Ubuntu. This guide was created after a minor inconvenience I faced to get the server up and running.
 

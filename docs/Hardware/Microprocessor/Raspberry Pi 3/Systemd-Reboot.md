@@ -1,3 +1,9 @@
+---
+title: Running Scripts On Boot Using Systemd
+description: One of the best ways to run scripts on boot in Linux by using systemd.
+image_url: https://keshavarzreza.ir/wp-content/uploads/2020/09/systemd-service.png
+---
+
 # Running Scripts On Boot
 
 Sometimes one may wish to run scripts at boot. I looked at a lot of solutions including crontab but the only solution that worked for me was `systemd`. This can be done for all Linux systems but since I did this on the Raspberry Pi I have included it here.

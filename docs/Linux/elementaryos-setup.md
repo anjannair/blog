@@ -1,6 +1,8 @@
-<!-- ---
+---
+title: Elementary OS Setup
 description: Quick tutorial to dual boot into ElementaryOS from Windows followed by a personal review at the end.
---- -->
+image_url: https://elementary.io/images/preview.png
+---
 
 # How to switch from Windows to ElementaryOS
 This tutorial gives you an insight into how I switched from Windows to ElementaryOS.
