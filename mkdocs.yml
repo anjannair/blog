@@ -5,6 +5,8 @@ theme:
   language: en
   name: material
   custom_dir: overrides
+  font:
+    code: Special Elite
   features:
     - navigation.top
   palette:
