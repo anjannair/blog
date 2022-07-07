@@ -25,6 +25,7 @@ A simple `.exe` installation will work like a charm.
 Two options will load:
 
 1) **Create an encrypted file container**: If this option is used VeraCrypt will create a file which will be used as a virtual mount point. A key point to remember here is that once a size is allocated to the file it cannot be increased nor decreased as opposed to the next option.
+
 2) **Create a non-system partition/drive**: If this option is used VeraCrypt will encrypt your whole drive. The size of the drive is the size that will be available to you.
 
 VeraCrypt suggests option 1 but I would say go for 2 if you do not know how much content you plan to encrypt. In this guide we will be going ahead with option 2.

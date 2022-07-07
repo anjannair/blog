@@ -6,7 +6,7 @@ theme:
   name: material
   custom_dir: overrides
   font:
-    text: Lekton
+    text: Raleway
   features:
     - navigation.top
   palette:
