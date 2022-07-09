@@ -45,3 +45,4 @@ Examples:
 - `mysqld`
 - `systemd`
 - `httpd`
+- `sshd`
