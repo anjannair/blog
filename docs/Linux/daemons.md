@@ -5,7 +5,13 @@ image_url: https://itsfoss.com/wp-content/uploads/2021/05/demons-800x400.jpg
 ---
 
 # Daemons
-"There's a saying -- 'The devil is at his strongest while we're looking the other way.' Like a program running in the background silently. While we're busy doing other shit. 'Daemons,' they call them. They perform action without user interaction. Monitoring, logging, notifications" - Elliot Alderson
+>There's a saying - 'The devil is at his strongest while we're looking the other way.'
+>
+>Like a program running in the background silently. While we're busy doing other shit. 'Daemons,' they call them. They perform action without user interaction. Monitoring, logging, notifications....
+>
+<div style="text-align:right">
+- <b>Elliot Alderson</b>
+</div>
 
 ## What Are Daemons?
 Pronounced as `day-mons`. Daemons are processes that run in the background. They are usually used to perform tasks that are not directly related to the user. For example, a daemon might be used to monitor a network connection and log the traffic.
